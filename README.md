@@ -47,7 +47,7 @@ Nutritional Completeness
     * 0.68g sodium 56% RDA
 * 5g Bouillon:
     * 0.9g sodium 75% RDA
-*Total:
+* Total:
     * fat 100%
     * protein 96%
     * carbohydrates 94.5%
