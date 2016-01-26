@@ -1,5 +1,6 @@
 
-They say a good developer eats his own dog food. Here is mine.
+> A quick and dirty Soylent-like food, in that it has everything you need.
+> For lazy people who don't want to spend much money.
 
 __Warning__: do not actually feed this to dogs. This is mainly for
 students, which are a lot like dogs, but have to eat human RDAs.
