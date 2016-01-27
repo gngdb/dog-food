@@ -53,5 +53,5 @@ Nutritional Completeness
     * protein 96%
     * carbohydrates 94.5%
     * fiber 107%
-    * potassium 101%
+    * potassium 108%
     * sodium 130%
